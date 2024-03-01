@@ -1,6 +1,5 @@
 # Security Headers
 
-
 ## X-Powered-By
 
   - Objective: Conceal server details to mitigate potential attack vectors.
